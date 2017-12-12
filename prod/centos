@@ -1,9 +1,9 @@
-  'prod custom 1 ':
+  prod-prop-1:
     default: prod overridable default
     required: false
     secured: false
     visible: false
-  prod enc override show:
+  prod enc show:
     default: 'myPassword'
     required: true
     secured: true
@@ -15,6 +15,11 @@
     visible: false
   prod show:
     default: demo show
+    required: true
+    secured: false
+    visible: true
+  prod-whatever:
+    default: a prod whatever field
     required: true
     secured: false
     visible: true
