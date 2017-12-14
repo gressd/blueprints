@@ -23,8 +23,3 @@
     required: true
     secured: false
     visible: true
-  prod-DEMO-whatever:
-    default: a prod whatever field
-    required: true
-    secured: false
-    visible: true
