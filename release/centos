@@ -28,8 +28,3 @@
     required: true
     secured: false
     visible: true
-  prod-DEMO-YEA:
-    default: a default value 
-    required: true
-    secured: false
-    visible: false
