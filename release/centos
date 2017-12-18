@@ -23,7 +23,7 @@
     required: true
     secured: false
     visible: true
-  DEMO-Value1:
+  DEMO-For-Today:
     default: a prod whatever field
     required: true
     secured: false
