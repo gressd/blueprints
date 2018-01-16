@@ -23,8 +23,8 @@
     required: true
     secured: false
     visible: true
-  DEMO-For-Today:
-    default: a prod whatever field
+  DEMO-For-gress:
+    default: a prod whatever dada
     required: true
     secured: false
     visible: true
