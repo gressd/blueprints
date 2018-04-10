@@ -23,7 +23,7 @@
     required: true
     secured: false
     visible: true
-  DEMO-For-GRESS:
+  DEMO-For-GRESS-Test:
     default: a blah blah
     required: true
     secured: false
